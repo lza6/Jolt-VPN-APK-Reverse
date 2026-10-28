@@ -1,0 +1,32 @@
+# === 凭据 / 大体积中间产物：禁止提交 ===
+jolt_secrets.py
+nodes_decrypted.json
+jolt_primary.json
+jolt_secondary.json
+proxies.txt
+ovpn/
+x/
+jadx_out/
+res_out/
+dex_strings.txt
+
+# 内核二进制与反编译工具（体积大，自己下）
+tools/singbox/
+tools/jadx/
+tools/*.zip
+
+# 运行产物
+*.log
+probe_result.json
+stress_result.json
+portmap.json
+singbox.json
+sb_*.json
+snapshot_series.json
+sample_loop.py
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store

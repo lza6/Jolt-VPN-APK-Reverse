@@ -1,0 +1,6 @@
+# Jolt VPN 代理池 · <timestamp>
+# 写入 3/10（探活存活 4，RTT>1500ms 剔除 1）
+# 22105 United States/Dallas <ip> rtt=444.5ms
+socks5://127.0.0.1:22105
+socks5://127.0.0.1:22107
+socks5://127.0.0.1:22108

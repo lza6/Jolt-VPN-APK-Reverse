@@ -1,0 +1,29 @@
+{
+ "code": 200,
+ "data": [
+  {
+   "country_name": "Spain",
+   "city_name": "Madrid",
+   "flag": "es",
+   "ipaddress": "jCH+g8FMWkfG************",
+   "port": 8388,
+   "type": "free",
+   "protocol": "shadowsocks",
+   "tag": "New",
+   "encryption": "WeXGR/TcxVVQ********************************",
+   "password": "m+PCt9n1+4i/************"
+  },
+  {
+   "country_name": "Germany",
+   "city_name": "Frankfurt",
+   "flag": "de",
+   "ipaddress": "Qgmu5Et4CHsY************",
+   "port": 8388,
+   "type": "free",
+   "protocol": "shadowsocks",
+   "tag": "New",
+   "encryption": "WeXGR/TcxVVQ********************************",
+   "password": "1Wj855rfxZem************"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "country": "Canada",
+  "city": "Montreal",
+  "tier": "free",
+  "protocol": "openvpn",
+  "ip": "15.235.***.***",
+  "port": null,
+  "method": "",
+  "password": "***"
+ },
+ {
+  "country": "France",
+  "city": "Paris",
+  "tier": "free",
+  "protocol": "openvpn",
+  "ip": "139.64.***.***",
+  "port": null,
+  "method": "",
+  "password": "***"
+ },
+ {
+  "country": "Germany",
+  "city": "Frankfurt",
+  "tier": "free",
+  "protocol": "openvpn",
+  "ip": "170.101.***.***",
+  "port": null,
+  "method": "",
+  "password": "***"
+ },
+ {
+  "country": "Spain",
+  "city": "Madrid",
+  "tier": "free",
+  "protocol": "openvpn",
+  "ip": "167.17.***.***",
+  "port": null,
+  "method": "",
+  "password": "***"
+ }
+]

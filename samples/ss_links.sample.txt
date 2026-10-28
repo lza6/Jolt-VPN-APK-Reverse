@@ -1,0 +1,10 @@
+ss://<REDACTED-USERINFO>@15.235.***.***:8388#Jolt-ca-Montreal-free
+ss://<REDACTED-USERINFO>@139.64.***.***:8388#Jolt-fr-Paris-free
+ss://<REDACTED-USERINFO>@170.101.***.***:8388#Jolt-de-Frankfurt-free
+ss://<REDACTED-USERINFO>@167.17.***.***:8388#Jolt-es-Madrid-free
+ss://<REDACTED-USERINFO>@198.244.***.***:8388#Jolt-gb-London-free
+ss://<REDACTED-USERINFO>@216.106.***.***:8388#Jolt-us-Dallas-free
+ss://<REDACTED-USERINFO>@176.97.***.***:8388#Jolt-jp-Tokyo-premium
+ss://<REDACTED-USERINFO>@5.61.***.***:8388#Jolt-nl-Amsterdam-premium
+ss://<REDACTED-USERINFO>@38.180.***.***:8388#Jolt-sg-Singapore-premium
+ss://<REDACTED-USERINFO>@38.180.***.***:8388#Jolt-us-New_York-premium
